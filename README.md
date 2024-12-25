@@ -1,6 +1,6 @@
 # Farhin Bhuiyan
 
-### Hello World 👋
+### 👋 Hello World
 
 I am currently a senior at Hunter College studying Computer Science and Economics. 
 
