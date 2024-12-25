@@ -31,4 +31,7 @@ I’ve always had an appreciation for the arts and creatives but never saw mysel
 [Light/Sound Memory Game](https://github.com/farhin-bhuiyan/light-and-sound-memory-game): Game created for CodePath's Site Program that tests users memory through light and sound. <br>
 [Manhattan Restaurants After COVID-19](https://github.com/farhin-bhuiyan/Manhattan/blob/gh-pages/index.md): Website that highlights data analysis done in neighborhoods in Manahttan to see how the restaurant industry bounced back after COVID-19. 
 
+### Let's Connect
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhin-bhuiyan/)
+
 
