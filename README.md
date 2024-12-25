@@ -12,9 +12,9 @@ I’ve always had an appreciation for the arts and creatives but never saw mysel
 
 ## Projects 
 [Concert Connect](https://github.com/JakeMartin336/CSCI-499-Capstone-Project): App built as a one stop shop for all concert goers. Matches users, connects users, and allows for users to see concert venue point of views. <br>
-From Coffe Machines to Machine Learning: NLP model created during Accenture Externship as ML/AI Fellw @ Cornell Tech. Sentiment analysis to find best location, menu items, and marketing strategies for future coffee shops. <br>
-Weather Checker: Website that integrates API to allow users to see weather throughout the world in real time. <br>
-Light/Sound Memory Game: Game created for CodePath's Site Program that tests users memory through light and sound. <br>
-Manhattan Restaurants After COVID-19: Website that highlights data analysis done in neighborhoods in Manahttan to see how the restaurant industry bounced back after COVID-19. 
+[From Coffe Machines to Machine Learning](https://docs.google.com/presentation/d/1HT_YZC1p3hDsCz-C052nWBRBmZGN9oj5aAApplS2vvM/edit?usp=sharing): NLP model created during Accenture Externship as ML/AI Fellw @ Cornell Tech. Sentiment analysis to find best location, menu items, and marketing strategies for future coffee shops. <br>
+[Weather Checker](https://github.com/farhin-bhuiyan/weather-checker): Website that integrates API to allow users to see weather throughout the world in real time. <br>
+[Light/Sound Memory Game](https://github.com/farhin-bhuiyan/light-and-sound-memory-game): Game created for CodePath's Site Program that tests users memory through light and sound. <br>
+[Manhattan Restaurants After COVID-19](https://github.com/farhin-bhuiyan/Manhattan/blob/gh-pages/index.md): Website that highlights data analysis done in neighborhoods in Manahttan to see how the restaurant industry bounced back after COVID-19. 
 
 
