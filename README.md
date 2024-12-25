@@ -1,9 +1,6 @@
 # Farhin Bhuiyan
 
-## Hi there 👋
-
-
-**Hello,
+## Hello there 👋
 
 I am currently a senior at Hunter College studying Computer Science and Economics. 
 
@@ -13,15 +10,4 @@ After studying computer science for four years I have created several projects (
 
 I’ve always had an appreciation for the arts and creatives but never saw myself as the actual artist. Instead I want to use my more technical abilities and mindset to help leverage creatives through tech and operations. Join me on this journey as I aim to bridge the gap between my passions for the arts, business, and tech.
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
