@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-<!--
+
 **Hello,
 
 I am currently a senior at Hunter College studying Computer Science and Economics. 
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
