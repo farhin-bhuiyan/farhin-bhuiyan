@@ -11,7 +11,7 @@ After studying computer science for four years I have created several projects (
 I’ve always had an appreciation for the arts and creatives but never saw myself as the actual artist. Instead I want to use my more technical abilities and mindset to help leverage creatives through tech and operations. Join me on this journey as I aim to bridge the gap between my passions for the arts, business, and tech.
 
 ## Projects 
-Concert Connect: App built as a one stop shop for all concert goers. Matches users, connects users, and allows for users to see concert venue point of views. <br>
+[Concert Connect](https://github.com/JakeMartin336/CSCI-499-Capstone-Project): App built as a one stop shop for all concert goers. Matches users, connects users, and allows for users to see concert venue point of views. <br>
 From Coffe Machines to Machine Learning: NLP model created during Accenture Externship as ML/AI Fellw @ Cornell Tech. Sentiment analysis to find best location, menu items, and marketing strategies for future coffee shops. <br>
 Weather Checker: Website that integrates API to allow users to see weather throughout the world in real time. <br>
 Light/Sound Memory Game: Game created for CodePath's Site Program that tests users memory through light and sound. <br>
