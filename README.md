@@ -1,6 +1,6 @@
 # Farhin Bhuiyan
 
-### 👋 Hello World
+### 🌎 Hello World
 
 I am currently a senior at Hunter College studying Computer Science and Economics. 
 
@@ -24,14 +24,14 @@ I’ve always had an appreciation for the arts and creatives but never saw mysel
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-### Projects 
+### 💻 Projects 
 [Concert Connect](https://github.com/JakeMartin336/CSCI-499-Capstone-Project): App built as a one stop shop for all concert goers. Matches users, connects users, and allows for users to see concert venue point of views. <br>
 [From Coffe Machines to Machine Learning](https://docs.google.com/presentation/d/1HT_YZC1p3hDsCz-C052nWBRBmZGN9oj5aAApplS2vvM/edit?usp=sharing): NLP model created during Accenture Externship as ML/AI Fellw @ Cornell Tech. Sentiment analysis to find best location, menu items, and marketing strategies for future coffee shops. <br>
 [Weather Checker](https://github.com/farhin-bhuiyan/weather-checker): Website that integrates API to allow users to see weather throughout the world in real time. <br>
 [Light/Sound Memory Game](https://github.com/farhin-bhuiyan/light-and-sound-memory-game): Game created for CodePath's Site Program that tests users memory through light and sound. <br>
 [Manhattan Restaurants After COVID-19](https://github.com/farhin-bhuiyan/Manhattan/blob/gh-pages/index.md): Website that highlights data analysis done in neighborhoods in Manahttan to see how the restaurant industry bounced back after COVID-19. 
 
-### Let's Connect
+### 👋 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhin-bhuiyan/)
 
 
