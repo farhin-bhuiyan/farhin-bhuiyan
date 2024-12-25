@@ -11,10 +11,10 @@ After studying computer science for four years I have created several projects (
 I’ve always had an appreciation for the arts and creatives but never saw myself as the actual artist. Instead I want to use my more technical abilities and mindset to help leverage creatives through tech and operations. Join me on this journey as I aim to bridge the gap between my passions for the arts, business, and tech.
 
 ## Projects 
-Concert Connect
-From Coffe Machines to Machine Learning
-Weather Check
-Light/Sound Memory Game
+Concert Connect <br>
+From Coffe Machines to Machine Learning  <br>
+Weather Check  <br>
+Light/Sound Memory Game  <br>
 Manhattan Restaurants After COVID-19
 
 
